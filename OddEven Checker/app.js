@@ -19,4 +19,4 @@ function oddEven(x){
     else {
         return "Odd"
     };
-};
+}
